@@ -118,7 +118,7 @@ Top features included:
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 Two supervised classification models were trained:
 
@@ -213,7 +213,7 @@ loan-prediction-project/
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
